@@ -13,3 +13,5 @@ g++ -std=c++20 srv.cpp -o srv
 suporta outros clientes, recomendo usar telnet. 
 
 para um melhor entedimento, acesse boost.asio examples ou tutorial.
+
+adendo: posso atualizar o codigo para algumas implementações no futuro.
