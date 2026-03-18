@@ -64,7 +64,6 @@ public std::enable_shared_from_this<Handle_Client> {
       --------------------------------------------
         server log:
       */
-      std::string server_msg;
       std::cout <<" log: " << msg;
     }
     
