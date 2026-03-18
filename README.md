@@ -11,3 +11,5 @@ para rodar na linha de comando use o seguinte codigo:
 g++ -std=c++20 srv.cpp -o srv
 
 suporta outros clientes, recomendo usar telnet. 
+
+para um melhor entedimento, acesse boost.asio examples ou tutorial.
